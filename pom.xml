@@ -176,6 +176,7 @@
                     <webApp>
                         <contextPath>/</contextPath>
                     </webApp>
+			<testFailureIgnore>true</testFailureIgnore>
                 </configuration>
             </plugin>
 		<!-- CODE COVERAGE -->
